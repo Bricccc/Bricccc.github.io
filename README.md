@@ -1,4 +1,5 @@
-# Bricccc.github.io  BRITA LAURA VESPERE (Course RTC723; Student: 131RBC132)
+# Bricccc.github.io  
+## BRITA LAURA VESPERE (Course RTC723; Student: 131RBC132)
 This is my GitHub web page that I created as a class work on 16th of October 2018.
 ### Webinar HW7
 As you  can see I have put here something that might look like a cloud. Try to click on it.*
