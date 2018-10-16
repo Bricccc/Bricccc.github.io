@@ -8,6 +8,6 @@ This is my web page that I created as a class work. 16th October 2018.
 alt="This is my webinar video" /></a>
 
 
-```
+```python
 print('the code')
 ```
